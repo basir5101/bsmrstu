@@ -1,0 +1,20 @@
+
+.search-form input {
+    background-color: #1c3334;
+    color: white;
+    font-size: 20px;
+  }
+
+  .search-form input:focus{
+    background-color: #1c3334;
+    color: white;
+  }
+  .search-form button{
+      background-color: #2f4454;
+      color: white;
+      font-size: 22px;
+  }
+  .search-form button:hover{
+      background-color: #2e141b;
+      color: white;
+  }

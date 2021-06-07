@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #2f4454;
+  color: white;
+}
+
+.navbar-items li a {
+  padding: 10px 30px;
+  margin: 2px 4px;
+  border-radius: 3px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.navbar-items li a:hover {
+  background-color: #2e141b;
+  transition: all 0.3s;
+}
+.active {
+  background-color: #2e141b;
+}
+.department {
+  color: #da7b93;
+}
+
+.logout {
+  background-color: #da7b93;
+  color: #ffffff;
+  margin: 3px 10px 0px 10px;
+}
